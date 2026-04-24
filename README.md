@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @isinelobov
 - 👀 I’m interested in life
-- 🌱 I’m currently learning AWS
-- 💞️ I’m looking to collaborate on hard drink
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate to listen birds
 - 📫 How to reach me: isinelobov@gmail.com
 
 <!---
